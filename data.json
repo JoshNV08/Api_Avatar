@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+    "name": "Avatar Aang",
+    "element": "Aire, Agua, Tierra, Fuego",
+    "image": "Aang.webp"
+  },
+
+  {
+    "id": 2,
+    "name": "Katara",
+    "element": "Agua Control",
+    "image": "Katara.webp"
+  },
+  {
+    "id": 3,
+    "name": "Zuko",
+    "element": "Fuego Control",
+    "image": "Zuko.webp"
+  },
+  {
+    "id": 4,
+    "name": "Toph",
+    "element": "Tierra Control",
+    "image": "Toph.webp"
+  },
+  {
+    "id": 5,
+    "name": "Sokka",
+    "element": "Boomerang Control",
+    "image": "Sokka.webp"
+  },
+  {
+    "id": 6,
+    "name": "Appa",
+    "element": "Aire Control",
+    "image": "Appa.webp"
+  },
+  {
+    "id": 7,
+    "name": "Momo",
+    "element": "-",
+    "image": "Momo.webp"
+  },
+  {
+    "id": 8,
+    "name": "Iroh",
+    "element": "Fuego Control",
+    "image": "Iroh.webp"
+  },
+  {
+    "id": 9,
+    "name": "Azula",
+    "element": "Fuego Control",
+    "image": "Azula.webp"
+  },
+  {
+    "id": 10,
+    "name": "Ozai",
+    "element": "Fuego Control",
+    "image": "Ozai.webp"
+  },
+  {
+    "id": 11,
+    "name": "Kyoshi",
+    "element": "Tierra, Fuego, Aire, Agua",
+    "image": "Kyoshi.webp"
+  },
+  {
+    "id": 12,
+    "name": "Mai",
+    "element": "Crazy Control",
+    "image": "Mai.webp"
+  },
+  {
+    "id": 13,
+    "name": "Roku",
+    "element": "Fuego, Tierra, Aire, Agua",
+    "image": "Roku.webp"
+  },
+  {
+    "id": 14,
+    "name": "Yangchen",
+    "element": "Aire, Fuego, Tierra, Agua",
+    "image": "Yangchen.webp"
+  },
+  {
+    "id": 15,
+    "name": "Suki",
+    "element": "Espada Control",
+    "image": "Suki.webp"
+  },
+  {
+    "id": 16,
+    "name": "Ty Lee",
+    "element": "-",
+    "image": "Ty_Lee_feliz.webp"
+  },
+  {
+    "id": 17,
+    "name": "Chief Hakoda",
+    "element": "-",
+    "image": "Chief_Hakoda.webp"
+  },
+  {
+    "id": 18,
+    "name": "Jet",
+    "element": "-",
+    "image": "Jet.webp"
+  },
+  {
+    "id": 19,
+    "name": "Yue",
+    "element": "Agua Control",
+    "image": "Yue.webp"
+  },
+  {
+    "id": 20,
+    "name": "Long Feng",
+    "element": "Tierra Control",
+    "image": "Long_Feng.webp"
+  },
+  {
+    "id": 21,
+    "name": "Monje Gyatso",
+    "element": "Aire Control",
+    "image": "Monje_Gyatso.webp"
+  }
+]
